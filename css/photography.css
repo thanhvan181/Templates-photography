@@ -1,0 +1,350 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    margin: 0 auto;
+
+}
+header {
+    background-image: url(../img/Layer\ 34.png);
+}
+body {
+    width: 1600px
+}
+.navagation {
+    width: 1150px;
+}
+.menu {
+  
+    float: right;
+   
+}
+
+
+.logo {
+    padding-top: 70px;
+}
+.logo span {
+    border: 2px solid white;
+    padding: 10px;
+    color: white;
+}
+
+.header-text{
+    padding-top: 120px;
+    text-align: center;
+}
+.header-text h1 {
+    color: white;
+    font-size: 60px;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.header-text hr {
+    width: 100px;
+    margin-bottom: 20px;
+
+}
+.header-text p {
+    font-size: 40px;
+    color: white;
+    font-family: 'Pattaya', sans-serif;
+
+}
+.header-buttom  span{
+    color: white;
+    font-family: 'Pattaya', sans-serif;
+
+}
+.header-buttom button {
+    padding: 10px;
+    border: 2px solid white;
+    width: 150px;
+    text-transform: uppercase;
+    font-family:'Lato', sans-serif;
+    margin: 30px 10px;
+    color: #fff;
+    overflow: hidden;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    outline:none;
+}
+.arrow {
+  margin-top: 50px;
+  padding-bottom: 20px;
+  font-size: 70px;
+}
+.arrow >i{
+color: white;
+
+}
+
+.post-right {
+    /* background-image: url(../img/ANH1.png); */
+    /* background-color: aqua;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 980px; */
+    
+    display: grid;
+    grid-template-columns: 400px auto;
+   
+
+}
+.post-left {
+    background-image: url(../img/img\ holder.png);
+    
+    
+   
+
+}
+.post-left-text {
+    width: 500px;
+    
+   padding-top: 50px;
+   margin-right: 900px;
+   color: white;
+
+   
+  
+}
+
+
+
+
+.post-left .title span {
+    color:  yellow;
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.post-left-text .title P{
+    display: inline;
+   font-weight: bold;
+
+    
+}
+.post-left-text h1 {
+    color: red;
+    font-weight: bold;
+    font-family: "Lato", sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.post-left-text span{
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+}
+.post-left-text p{
+    margin-top: 20px;
+}
+.post-left-text i {
+    font-size: 36px;
+}
+.post-left-text hr {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#btn-left-buttom {
+    padding: 10px;
+    border: 2px solid red;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: white;
+    margin-bottom: 30px;
+}
+.post-left1 {
+    background-image: url(../img/Layer\ 31.png);
+
+}
+.post-left1 .title span {
+    color:  yellow;
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+
+.post-right-text {
+    width: 540px;
+    
+   margin-top: 150px;
+   margin-left: 400px;
+
+   
+  
+}
+.post-right-text .title span {
+    color:  yellow;
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.post-right-text .title P{
+    display: inline;
+   font-weight: bold;
+
+    
+}
+.post-right-text h1 {
+    color: red;
+    font-weight: bold;
+    font-family: "Lato", sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.post-right-text span{
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+}
+.post-right-text p{
+    margin-top: 20px;
+}
+.post-right-text i {
+    font-size: 36px;
+}
+.post-right-text hr {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#btn1-buttom {
+    padding: 10px;
+    border: 2px solid red;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: white;
+}
+.footer-login {
+    background-image: url(../img/Layer\ 32.png);
+  
+}
+.footer-login-text {
+    text-align: center;
+    width: 1150px;
+    padding-top: 60px;
+}
+.footer-login-text h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    padding-bottom: 10px;
+
+}
+.footer-login-text hr {
+    width: 70px;
+    
+}
+.footer-login-text p {
+    font-size: 26px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.footer-login-input {
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    text-transform: uppercase;
+    font-family:'Lato', sans-serif;
+    /* margin: 30px 10px; */
+   
+}
+
+#writting {
+    /* display: block; */
+    width: 1150px;
+    border: 2px solid white;
+    background-color:rgba(0, 0, 0, 0.5);
+    font-family:'Lato', sans-serif;
+    font-size: large;
+    position: relative;
+    padding:15px 0px 15px 0px ;
+
+    top: 20px;
+    font-weight: bolder;
+
+    
+}
+/* 
+.login input {
+    color:white;
+    padding: 15px 15px 0px 15px ;
+    width: 530px;
+    border: 2px solid white;
+    
+} */
+
+.input1{
+    color:white;
+    padding:0px 15px 0px 15px ;
+    width: 530px;
+    border: 2px solid white;
+    float: left;
+    background-color:rgba(0, 0, 0, 0.5);
+    position: relative;
+    left: 223px;
+    font-size: large;
+    height:62px;
+    font-weight: bolder;
+
+
+}
+
+
+.input2{
+    color:white;
+    padding: 0px 15px 0px 15px ;
+    width: 530px;
+    border: 2px solid white;
+    float:right;
+    background-color:rgba(0, 0, 0, 0.5);
+    height: 62px;
+    font-size: large;
+    font-weight: bolder;
+
+    position: relative;
+    right: 223px;
+
+}
+#btn-send {
+    padding: 15px;
+    width: 200px;
+    margin-left: 700px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    color:white;
+    font-family:'Lato', sans-serif;
+    border: 2px solid white;
+    background-color:rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    font-weight: bolder;
+}
+.footer-title {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    
+}
+.footer-end {
+    background-color: #fece14;
+    text-align: center;
+
+}
+.footer-end span {
+    font-size: 20px;
+}
